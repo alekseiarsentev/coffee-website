@@ -81,7 +81,7 @@ body {
   }
   
   .navbar-link:is(:focus, :hover) {
-    color: var(--navbar-text-color-focus);
+    color: white;
     background-color: var(--navbar-bg-contrast);
   }
   .navbar-logo {
